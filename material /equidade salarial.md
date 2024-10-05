@@ -14,7 +14,7 @@ Este projeto consiste na análise de **Equidade salarial baseado em gênero e ra
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: CAGED
+- **Base 1**: CAGED (Cadastro Geral de Empregados e Desempregados).
 
 ---
  
